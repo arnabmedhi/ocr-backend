@@ -1,0 +1,5 @@
+flask
+pytesseract
+torch
+torchvision
+transformers
